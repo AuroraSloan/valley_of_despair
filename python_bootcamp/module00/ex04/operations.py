@@ -26,5 +26,6 @@ def main():
     if (argc > 3 or argc < 3):
         print(Usage, Example, sep='\n')
 
+
 if __name__ == "__main__":
     main()
